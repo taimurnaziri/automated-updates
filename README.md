@@ -1,2 +1,2 @@
 <h1>Auto Updates</h1>
-<p>A repo used for automatically pushed updates.</p>
+<p>A repo used to track automatically pushed updates.</p>
